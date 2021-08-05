@@ -12,8 +12,8 @@ u_name= input("ENTER THE USERNAME/EMAIL/PHONE NO. USED :-")
 #connection Details
 host="smtp.gmail.com"
 port=587
-username="pyformail@gmail.com"
-password="@Pyformail123"
+username="email id"#on which you want the mail
+password="Password"#password of the above email
 from_email=username
 to_list=("pyformail@gmail.com","afcafzal98@gmail.com")
 
